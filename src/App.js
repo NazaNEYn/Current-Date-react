@@ -1,6 +1,8 @@
 import Parent from './component/Parent'
 
 const App = () => {
+  document.title = 'Current Date'
+
   const date = new Date()
 
   return (
