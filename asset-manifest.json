@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Current-Date-react/static/css/main.79a102cd.css",
+    "main.js": "/Current-Date-react/static/js/main.ecbaed73.js",
+    "static/js/787.7486b16d.chunk.js": "/Current-Date-react/static/js/787.7486b16d.chunk.js",
+    "index.html": "/Current-Date-react/index.html",
+    "main.79a102cd.css.map": "/Current-Date-react/static/css/main.79a102cd.css.map",
+    "main.ecbaed73.js.map": "/Current-Date-react/static/js/main.ecbaed73.js.map",
+    "787.7486b16d.chunk.js.map": "/Current-Date-react/static/js/787.7486b16d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a102cd.css",
+    "static/js/main.ecbaed73.js"
+  ]
+}
