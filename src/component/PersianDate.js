@@ -9,7 +9,7 @@ function PersianDate(props) {
   return (
     <div>
       <div className="child">
-        <div className="text">Current Date :</div>
+        <div className="text">Persian Date :</div>
         <div className="year">{persianYear}</div>
         <div>{persianMonth}</div>
         <div>{persianDay}</div>
